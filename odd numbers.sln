@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odd numbers", "odd numbers\odd numbers.csproj", "{666AFE48-BD1C-42ED-A7A4-8593B576AFFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{666AFE48-BD1C-42ED-A7A4-8593B576AFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666AFE48-BD1C-42ED-A7A4-8593B576AFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666AFE48-BD1C-42ED-A7A4-8593B576AFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666AFE48-BD1C-42ED-A7A4-8593B576AFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CE8F574-EFFA-4FC2-9EE7-672D63E2D3DC}
+	EndGlobalSection
+EndGlobal
